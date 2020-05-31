@@ -2,7 +2,6 @@
 paragraph paragraph paragraph paragraph paragraph paragraph paragraph
 
 ## Getting Started
----
 Follow these instruction will get you code run on your computer
 
 ### Prerequisites
@@ -15,18 +14,17 @@ Follow these instruction will get you code run on your computer
 + Python
 
 ## Deployment
----
 Using this this this
 
 ## Built With
----
 + A
 + B
 + C
 
 ## Acknowledgment
----
 For more details please google [here](https://www.google.com)
+
+---
 
 <!-- # Git-test-codecamp-6
 ## title h2
