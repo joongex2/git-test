@@ -2,7 +2,4 @@ aaaa
 
 bbbb
 cccc
-<<<<<<< HEAD
-=======
 dddd
->>>>>>> master
