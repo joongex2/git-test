@@ -2,4 +2,4 @@ commit from master 1
 commit from feature-2
 commit 2 from feature-2
 try new
-try rebase at master
+try rebase
