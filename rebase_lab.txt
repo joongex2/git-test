@@ -4,3 +4,4 @@ commit 2 from feature-2
 try new
 try rebase
 try rebase without conflict master
+merge from master2
