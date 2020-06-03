@@ -6,3 +6,5 @@ try rebase
 try rebase without conflict master
 merge from master2
 rebase without conflict
+
+try2
